@@ -34,8 +34,8 @@
 [Javascript]: https://www.javascript.com
 
 <p  align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Colinput&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colinput&hide=php&theme=tokyonight" />
   </a>
 </p>
 <br>
