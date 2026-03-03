@@ -31,7 +31,6 @@
 [Go]: https://go.dev
 [HTML5]: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
 [Tailwind]: https://tailwindcss.com
-[Javascript]: https://www.javascript.com
 
 <p  align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Colinput&theme=tokyonight">
