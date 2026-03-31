@@ -29,10 +29,3 @@
 [Python]: https://www.python.org/downloads/
 [Go]: https://go.dev
 [HTML5]: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
-
-<p  align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Colinput&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colinput&hide=php&theme=tokyonight" />
-  </a>
-</p>
-<br>
